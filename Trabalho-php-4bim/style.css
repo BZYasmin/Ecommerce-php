@@ -41,7 +41,7 @@ header nav a {
 }
 
 header nav a:hover {
-    color: #f1c6e4; /* Cor de hover mais suave */
+    color: #f1c6e4; 
 }
 
 main {
@@ -159,7 +159,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #9b6cb4; /* Cor de hover mais clara */
+    background-color: #9b6cb4;
 }
 
 h1 {
